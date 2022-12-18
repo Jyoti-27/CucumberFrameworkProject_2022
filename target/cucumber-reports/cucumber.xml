@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="21" time="0.978">
+    <testcase classname="To verify and click the ActiveTrader Menu on sharekhan website" name="Verify user is able to click on the ActiveTrader Menu from the Sharekhan Website successfully" time="0.161">
+        <system-out><![CDATA[Given user is on the ActiveTrader Menu option on sharekhan website..........passed
+When user clicks on ActiveTrader Menu button................................passed
+Then user now able to see all options ActiveTrader Menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To add and verify Virtual Portfolio validation on sharekhan's website" name="Verify user is able to Add Virtual Portfolio" time="0.026">
+        <system-out><![CDATA[Given user is already logged in and is on Dashboard page....................passed
+When user clicks on Portfolio Option to ADD VIRTUAL PORTFOLIO option and enters the data in Portfolio folder.passed
+And user clicks on add scrip for adding the stock...........................passed
+Then user should able to see the added scrip in virtual portfolio successfully.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="OpenClose Website validation" name="Verify user is able to openclose the Sharekhan Website successfully" time="0.017">
+        <system-out><![CDATA[Given user is on the page...................................................passed
+When user launches sharekhan website URL....................................passed
+And user verifies all options on sharekhan website front page and close it..passed
+Then user now able to see Sharekhan Website.................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Sharekhan CashTransfer validation" name="Verify user is able to Cash Transfer" time="0.015">
+        <system-out><![CDATA[Given user is already logged in and is on Dashboard page....................passed
+When user click on Account Option and enters the data on Account Option Page.passed
+And user clicks on Cash Transfer button.....................................passed
+Then user should able to see Cash Transfer successfully.....................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Create and verify Watchlist validation on sharekhan's website" name="Verify user is able to Create and verify Watchlist" time="0.01">
+        <system-out><![CDATA[Given user is already logged in and is on Dashboard page....................passed
+When user clicks on MarketWatch option and again click on to Create Watchlist option and enters the data and verify watchlist.passed
+And user clicks on OK Button to create and display watchlist................passed
+Then user should be able to see watchlist successfully......................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the EducationFirst Menu on sharekhan website" name="Verify user is able to click on the EducationFirst Menu from the Sharekhan Website successfully" time="0.025">
+        <system-out><![CDATA[Given user is on the EducationFirst Menu option on sharekhan website........passed
+When user clicks on EducationFirst Menu button..............................passed
+Then user now able to see all options EducationFirst Menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the InstaMf Menu on sharekhan website" name="Verify user is able to click on the InstaMf Menu from the Sharekhan Website successfully" time="0.02">
+        <system-out><![CDATA[Given user is on the InstaMf Menu option on sharekhan website...............passed
+When user clicks on InstaMf Menu button.....................................passed
+Then user now able to see all options InstaMf Menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Sharekhan Login validation with datawithoutExample" name="login to Sharekhan application" time="0.015">
+        <system-out><![CDATA[Given user is login screen..................................................passed
+When user enters LoginID as "<3481931>" and MembershipPassword as "<Jy@2714#*>" on login page.passed
+And user clicks on Login button.............................................passed
+Then user should able to see dashboard page.................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Sharekhan LoginMenuBar validation with datawithoutExample" name="Verify to LoginMenuBar Sharekhan application" time="0.017">
+        <system-out><![CDATA[Given user is on login screen...............................................passed
+When user clicks on LoginID as "<3481931>" and MembershipPassword as "<Jy@2714#*>" on login page.passed
+And user clicks on Login button to see dashboard page.......................passed
+And user clicks on Accounts Button on LoginMenuBar..........................passed
+Then user should able to see Accounts Button page on LoginMenuBar...........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Sharekhan LoginMenuFrame validation with datawithoutExample" name="Verify to LoginMenuFrame Sharekhan application" time="0.007">
+        <system-out><![CDATA[Given user is on login screen...............................................passed
+When user clicks on LoginID as "<3481931>" and MembershipPassword as "<Jy@2714#*>" on login page.passed
+And user clicks on Login button to see dashboard page.......................passed
+And user clicks on LoginMenuFrame Button on LoginMenuBar....................passed
+Then user should able to see LoginMenuFrame Button page on LoginMenuBar.....passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Sharekhan LoginMenuMarketWatch validation with datawithoutExample" name="Verify to LoginMenuMarketWatch Sharekhan application" time="0.012">
+        <system-out><![CDATA[Given user is on login screen...............................................passed
+When user clicks on LoginID as "<3481931>" and MembershipPassword as "<Jy@2714#*>" on login page.passed
+And user clicks on Login button to see dashboard page.......................passed
+And user clicks on MarketWatch Button on LoginMenuBar.......................passed
+Then user should able to see MarketWatch Button page on LoginMenuBar........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Sharekhan LoginMenureports validation with datawithoutExample" name="Verify to LoginMenureport Sharekhan application" time="0.005">
+        <system-out><![CDATA[Given user is on login screen...............................................passed
+When user clicks on LoginID as "<3481931>" and MembershipPassword as "<Jy@2714#*>" on login page.passed
+And user clicks on Login button to see dashboard page.......................passed
+And user clicks on Reports Button on LoginMenuBar...........................passed
+Then user should able to see Reports Button page on LoginMenuBar............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Sharekhan LoginMenuTradeNow validation with datawithoutExample" name="Verify to LoginMenuTradeNow Sharekhan application" time="0.007">
+        <system-out><![CDATA[Given user is on login screen...............................................passed
+When user clicks on LoginID as "<3481931>" and MembershipPassword as "<Jy@2714#*>" on login page.passed
+And user clicks on Login button to see dashboard page.......................passed
+And user clicks on TradeNow Button on LoginMenuBar..........................passed
+Then user should able to see TradeNow Button page on LoginMenuBar...........passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the Main Menu on sharekhan website" name="Verify user is able to click on the Main Menu from the Sharekhan Website successfully" time="0.006">
+        <system-out><![CDATA[Given user is on the main menu option on sharekhan website..................passed
+When user clicks on main menu button........................................passed
+Then user now able to see all options main menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the Market Menu on sharekhan website" name="Verify user is able to click on the Market Menu from the Sharekhan Website successfully" time="0.005">
+        <system-out><![CDATA[Given user is on the main Market option on sharekhan website................passed
+When user clicks on Market menu button......................................passed
+And user sees all options on Market menu....................................passed
+Then user now able to see all options Market menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the MutualFunds Menu on sharekhan website" name="Verify user is able to click on the MutualFunds Menu from the Sharekhan Website successfully" time="0.006">
+        <system-out><![CDATA[Given user is on the MutualFunds Menu option on sharekhan website...........passed
+When user clicks on MutualFunds Menu button.................................passed
+Then user now able to see all options MutualFunds Menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the NewToMarket Menu on sharekhan website" name="Verify user is able to click on the NewToMarket Menu from the Sharekhan Website successfully" time="0.005">
+        <system-out><![CDATA[Given user is on the NewToMarket Market option on sharekhan website.........passed
+When user clicks on NewToMarket menu button.................................passed
+Then user now able to see all options NewToMarket menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the ProductsAndServices Menu on sharekhan website" name="Verify user is able to click on the ProductsAndServices Menu from the Sharekhan Website successfully" time="0.005">
+        <system-out><![CDATA[Given user is on the ProductsAndServices Menu option on sharekhan website...passed
+When user clicks on ProductsAndServices Menu button.........................passed
+Then user now able to see all options ProductsAndServices Menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the Research Menu on sharekhan website" name="Verify user is able to click on the Research Menu from the Sharekhan Website successfully" time="0.004">
+        <system-out><![CDATA[Given user is on the Research Menu option on sharekhan website..............passed
+When user clicks on Research Menu button....................................passed
+Then user now able to see all options Research Menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verify and click the SuperInvestor Menu on sharekhan website" name="Verify user is able to click on the SuperInvestor Menu from the Sharekhan Website successfully" time="0.009">
+        <system-out><![CDATA[Given user is on the SuperInvestor Menu option on sharekhan website.........passed
+When user clicks on SuperInvestor Menu button...............................passed
+Then user now able to see all options SuperInvestor Menu option on Sharekhan Website.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Sharekhan TransferFunds validation" name="Verify user is able to Transfer the Funds" time="0.008">
+        <system-out><![CDATA[Given user is already logged in and is on Dashboard page....................passed
+When user click on Account Option and enters the data on Account Option Page.passed
+And user clicks on Transfer Fund button.....................................passed
+Then user should able to see Transfer the Fund successfully.................passed
+]]></system-out>
+    </testcase>
+</testsuite>
